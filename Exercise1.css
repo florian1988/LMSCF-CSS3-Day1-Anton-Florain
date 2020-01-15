@@ -1,0 +1,24 @@
+body{
+	background: #D7F7E7;
+	background: -moz-radial-gradient(center, #1C6EA4 0%, #D7F7E7 48%, #749CF9 100%);
+	background: -webkit-radial-gradient(center, #1C6EA4 0%, #D7F7E7 48%, #749CF9 100%);
+	background: radial-gradient(ellipse at center, #1C6EA4 0%, #D7F7E7 48%, #749CF9 100%);
+}
+
+#alert{
+	font-size: 3em;
+	color: #FF5733 ;
+}
+
+td{
+	text-align: center;
+}
+
+td p{
+	color: #FF5733;
+	font-size: 1.5em;
+}
+
+h1{
+	color: #FF5733;
+}
