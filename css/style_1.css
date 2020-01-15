@@ -23,10 +23,15 @@ body {background-color: #b8faff
    border: 5px
 }
 .right {
-	background-color: #ffddb8
-
+	background-color: #ffddb8;
+	position: relative;
+	right: ;
+	size: ;
 }
 .left{
-	background-color: #ffb9b8
-
+	background-color: #ffb9b8;
+	position: relative;
+	left: ;
+	width: 300px;
 }
+
